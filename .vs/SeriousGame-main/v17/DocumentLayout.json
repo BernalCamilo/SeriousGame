@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuanF\\Downloads\\SeriousGame\\SeriousGame-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C451A61-67F1-961C-B6EB-28B42E47D6D1}|Assembly-CSharp.csproj|c:\\users\\juanf\\downloads\\seriousgame\\seriousgame-main\\assets\\_scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C451A61-67F1-961C-B6EB-28B42E47D6D1}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\JuanF\\Downloads\\SeriousGame\\SeriousGame-main\\Assets\\_Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\JuanF\\Downloads\\SeriousGame\\SeriousGame-main\\Assets\\_Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\DialogueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:25:00.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

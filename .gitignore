@@ -1,0 +1,20 @@
+[Librerías y datos temporales]
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+
+[Archivos del editor]
+*.csproj
+*.sln
+*.userprefs
+
+[Configuraciones del sistema operativo]
+.DS_Store
+Thumbs.db
+
+[Unity generados]
+*.pidb
+*.pdb
+*.log
